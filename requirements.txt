@@ -1,0 +1,12 @@
+openai
+tenacity
+tabulate
+pandas
+jinja2
+jupyterlab
+ipywidgets
+sentence-transformers
+pylint
+sentry-sdk>=1.23.0
+pyperclip
+protobuf==3.20.0

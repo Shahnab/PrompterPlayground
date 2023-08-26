@@ -1,0 +1,7 @@
+prompttools
+jinja2
+huggingface_hub
+llama-cpp-python
+anthropic
+pyperclip
+google-generativeai
